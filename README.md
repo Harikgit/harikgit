@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Hariharamanikandan
 #### I am a software tester
+<p align="center">
 ![I am a software tester](https://github.com/Harikgit/imagesURLs/blob/main/Github_Banner_new1.png)
-
+</p>
 
 <h1 align="center">Hi 👋, I'm Hariharamanikandan K</h1>
 <h3 align="center">A dedicated software tester from Chennai, India</h3>
