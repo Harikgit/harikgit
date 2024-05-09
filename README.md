@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Hariharamanikandan
 #### I am a software tester
-![I am a software tester](https://github.com/Harikgit/imagesURLs/blob/main/Github_Banner.jpg)
+![I am a software tester](https://github.com/Harikgit/imagesURLs/blob/main/Github_Banner_new.png)
 
 I'm Hariharamanikandan K from Chennai, India, trying to make it as a professional software tester
 
