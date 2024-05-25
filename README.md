@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **hariharamanikandank91@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12Uh5VJFISmu0eXKRA8fUvcgskyWArjbN/view?usp=drive_link](https://drive.google.com/file/d/12Uh5VJFISmu0eXKRA8fUvcgskyWArjbN/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12Uh5VJFISmu0eXKRA8fUvcgskyWArjbN/view?usp=drive_link](https://drive.google.com/file/d/1SJNe6Tkw-XYYmE_NBijk_m9HrIp2puSl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
